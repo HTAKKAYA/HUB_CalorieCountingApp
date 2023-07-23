@@ -39,7 +39,7 @@ On this screen, the user can add a new meal.
 ### Add Meal Details
 On this screen, the user can add personalized details for the meals that are already registered in the system.
 
-![AddMealDetails](/Git%20Images/addMealDetails.png) 
+![AddMealDetails](/Git%20Images/addMealDetails..png) 
 
 ### Reports
 On the Reports page, the user can view their daily and monthly food consumption based on meals. They can compare the most consumed meals and make comparisons based on meal types. If desired, they can generate reports from a specific date onwards.
