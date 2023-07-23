@@ -24,5 +24,5 @@ The user can view the foods consumed throughout the day and their nutritional va
 
 ### Meal Management
 On this screen, the user can select a meal from the list of registered foods and add it to their desired meal. They also have the option to add a new meal or customize an existing meal according to their preferences.
-![MealManagement](/Git%20Images/MealManagement.png)
+![MealManagement](/Git%20Images/MealManagement.png) 
 
